@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jess
 - 👀 I’m interested in gaming, football and quality family time
-- 🌱 I’m continuously learning through my QA career
+- 🌱 I’m continuously learning through my QA career and personal life
 - ⚡ Fun fact: I won a best player awared for my football team in University
